@@ -1,0 +1,16 @@
+* {
+  /** universal secici 
+  ** tum html elemanlarinin margin ve padding'lerini sifirla*/
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: aquamarine;
+}
+.div {
+  background-color: antiquewhite;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  padding: 20px;
+}
